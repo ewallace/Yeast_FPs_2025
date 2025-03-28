@@ -1,0 +1,25 @@
+LOCUS       mScarlet-I3-yo           687 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   mScarlet-I3-yo
+VERSION     mScarlet-I3-yo
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..687
+                     /gene="mScarlet-I3"
+ORIGIN
+        1 atggattcta cagaggccgt tatcaaggag ttcatgcgtt ttaaagtcca catggaaggc
+       61 tctatgaacg gtcatgaatt tgaaatcgaa ggtgaaggtg agggtagacc atatgaaggc
+      121 acccagaccg ctaaactaaa agtaactaag ggcggcccat taccattctc atgggacatc
+      181 ctatcaccac agtttatgta cggttccaga gctttcatca agcatccagc tgatattcca
+      241 gactattgga agcaatcctt ccctgaaggt tttaaatggg aacgtgtcat gattttcgag
+      301 gacggaggta ctgtatctgt tacacaagac acttccttgg aggatggcac tttgatctac
+      361 aaggtcaagt tgagaggtgg taatttccct cctgatggtc ctgttatgca aaaacgtact
+      421 atgggttggg aagcctccac agaaagattg tatccagagg atgttgtctt gaagggtgac
+      481 atcaagatgg ctttaaggct aaaagatggt ggtaggtact tagccgactt taagaccact
+      541 tacaaggcta agaaacctgt ccagatgcca ggagcattca atatcgaccg taagttggat
+      601 attacctccc acaacgagga ttacaccgtt gttgaacaat acgaaagatc cgttgctaga
+      661 cactctactg gtggttccgg tggttct
+//

@@ -1,0 +1,25 @@
+LOCUS       mCherry-yo               708 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   mCherry-yo
+VERSION     mCherry-yo
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..708
+                     /gene="mCherry"
+ORIGIN
+        1 atggtttcta aaggagagga ggacaacatg gccattatca aggagttcat gagattcaag
+       61 gtccacatgg aaggttctgt taacggtcac gaatttgaga tagaaggcga aggtgaagga
+      121 aggccttacg aaggcaccca aaccgctaaa ttaaaagtta ccaagggtgg tccattgcca
+      181 tttgcctggg acattttatc cccacagttc atgtatggtt caaaggccta tgttaagcat
+      241 ccagctgaca tcccagatta cctaaagtta tcctttccag agggtttcaa gtgggaaaga
+      301 gtcatgaatt ttgaggacgg tggtgttgta accgttacac aagattcatc cttgcaagac
+      361 ggcgagttca tttataaggt caagctaagg ggcactaact tcccttctga tggtcctgtt
+      421 atgcagaaaa agactatggg ttgggaagca tcttccgaaa gaatgtaccc agaagatggt
+      481 gccttgaaag gtgagatcaa gcagaggttg aaattgaagg atggtggtca ctatgacgct
+      541 gaggtcaaga ctacatacaa ggctaaaaag ccagttcaac tacctggagc atacaacgtc
+      601 aacataaagt tggacatcac ttcccacaac gaggattaca caattgtaga gcaatacgaa
+      661 cgtgctgaag gtaggcattc tactggtggc atggatgaat tgtacaaa
+//

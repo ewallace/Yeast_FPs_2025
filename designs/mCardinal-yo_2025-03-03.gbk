@@ -1,0 +1,26 @@
+LOCUS       mCardinal-yo             732 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   mCardinal-yo
+VERSION     mCardinal-yo
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..732
+                     /gene="mCardinal"
+ORIGIN
+        1 atggtttcta aaggtgagga gttgatcaag gagaacatgc acatgaagct atacatggag
+       61 ggcactgtca ataaccatca cttcaaatgt accactgagg gtgaaggtaa gccttacgag
+      121 ggtactcaaa ctcagcgtat taaggtagtt gaaggtggtc cattgccatt tgcctttgat
+      181 atcttggcta catgcttcat gtacggctcc aaaaccttca ttaaccacac acaaggcatc
+      241 ccagatttct tcaagcaatc tttccctgag ggttttacct gggaaagagt tactacttat
+      301 gaggatggtg gagtcttaac cgttacccaa gatacatcct tgcaagacgg ttgcttaatc
+      361 tacaacgtca aactacgtgg cgtcaacttt ccatctaacg gtcctgtcat gcaaaaaaag
+      421 accctaggtt gggaagctac aactgagact ttgtatccag ctgatggagg tctagaaggt
+      481 agatgtgata tggctttgaa gctagttggt ggtggtcact tgcactgcaa cttgaaaact
+      541 acctaccgtt caaagaagcc agccaagaat ttgaagatgc ctggcgtcta cttcgttgac
+      601 agaaggttag aacgtataaa ggaagctgac aacgagactt acgttgaaca gcatgaagtt
+      661 gctgtagcaa ggtattgtga cttgccatcc aagctaggtc acaaattaaa cggtatggac
+      721 gagttgtaca ag
+//
